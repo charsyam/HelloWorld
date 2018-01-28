@@ -1,6 +1,6 @@
 import unittest
 import sys, os
-import mock
+import unittest.mock as mock
 
 from guoid import SnowFlake
 
